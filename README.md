@@ -1,6 +1,6 @@
 # Blog Preview Card
 
-![Design preview for the Blog Preview Card coding challenge](./design/desktop-preview.jpg)
+[![Design preview for the Blog Preview Card coding challenge](./design/desktop-preview.jpg)](https://blog-card-design.netlify.app/)
 
 ## Welcome! 👋
 
